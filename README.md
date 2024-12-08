@@ -1,4 +1,6 @@
 # IMGD5100 - Tangible And Embodied Interaction
+Kaiyu Bao
+
 Project Proposal: Integrating Mobile IOS with Unreal Engine Character Skills
 
 A brief description of the concept
@@ -9,7 +11,7 @@ Project Documentation (Production Screenshots)
 ![image](https://github.com/user-attachments/assets/c057555b-6e07-49b7-a99a-9c6c4b561e41)
 
 Practical operation video 
-
+https://youtu.be/axfegV-wQuk
 
 Description of the assessment and its findings
 Unreal Engine's Niagara VFX system provides a sophisticated framework for creating and controlling visual effects, making it a powerful tool for enhancing character skills on iOS mobile platforms. The integration focuses on leveraging iOS-specific input methods (e.g., touch gestures, sensors) to trigger dynamic visual effects associated with character skills. This process requires optimizing visual complexity.
